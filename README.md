@@ -1,1 +1,1 @@
-# Number-guesser-app
+<!-- This simple web app can guess your number in 11 or less tries -->
